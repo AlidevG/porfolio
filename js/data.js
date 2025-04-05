@@ -18,6 +18,30 @@ export default [
     title: "5Vazifa-4",
     github: "https://github.com/AlidevG/5Vazifa-4",
     vercel: "https://5-vazifa-4.vercel.app/",
-  }
- 
+  },
+  {
+    title: "5Vazifa-2",
+    github: "https://github.com/AlidevG/5Vazia-2",
+    vercel: "https://5-vazia-2.vercel.app/",
+  },
+  {
+    title: "5Vazifa-3",
+    github: "https://github.com/AlidevG/5Vazifa-3",
+    vercel: "https://5-vazifa-3.vercel.app/",
+  },
+  {
+    title: "Dars3.3",
+    github: "https://github.com/AlidevG/Uyga-vazifa-3.3",
+    vercel: "https://uyga-vazifa-3-3.vercel.app/",
+  },
+  {
+    title: "ANSORMED",
+    github: "https://github.com/AlidevG/ANRORMED",
+    vercel: "https://anrormed.vercel.app/",
+  },
+  {
+    title: "Viloyatlar",
+    github: "https://github.com/AlidevG/ANRORMED",
+    vercel: "https://anrormed.vercel.app/",
+  },
 ];
