@@ -44,4 +44,9 @@ export default [
     github: "https://github.com/AlidevG/ANRORMED",
     vercel: "https://anrormed.vercel.app/",
   },
+  {
+    title: "Cofee stret-main",
+    github: "https://github.com/AlidevG/Cafe-Street-main",
+    vercel: "https://anrormed.vercel.app/",
+  },
 ];
