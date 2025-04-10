@@ -1,5 +1,10 @@
 export default [
   {
+    title: "parfimium",
+    github: "https://github.com/AlidevG/Parfimium",
+    vercel: "https://parfimium.vercel.app/",
+  },
+  {
     title: "Akademiknashr",
     github: "https://github.com/AlidevG/Akademik.Nashr",
     vercel: "https://akademik-nashr-gamma.vercel.app/",
