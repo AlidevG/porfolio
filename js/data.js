@@ -1,8 +1,8 @@
 export default [
   {
     title: "Namanganliklar",
-    github: "https://github.com/AlidevG/namanganliklar",
-    vercel: "https://namanganliklar-alpha.vercel.app/",
+    github: "https://github.com/AlidevG/namanganliklar24",
+    vercel: "https://namanganliklar24-lyart-nu.vercel.app/",
   },
   {
     title: "parfimium",
